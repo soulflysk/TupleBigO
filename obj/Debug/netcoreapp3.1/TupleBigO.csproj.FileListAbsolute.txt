@@ -1,0 +1,13 @@
+C:\DATA\TupleBigO\bin\Debug\netcoreapp3.1\TupleBigO.exe
+C:\DATA\TupleBigO\bin\Debug\netcoreapp3.1\TupleBigO.deps.json
+C:\DATA\TupleBigO\bin\Debug\netcoreapp3.1\TupleBigO.runtimeconfig.json
+C:\DATA\TupleBigO\bin\Debug\netcoreapp3.1\TupleBigO.runtimeconfig.dev.json
+C:\DATA\TupleBigO\bin\Debug\netcoreapp3.1\TupleBigO.dll
+C:\DATA\TupleBigO\bin\Debug\netcoreapp3.1\TupleBigO.pdb
+C:\DATA\TupleBigO\obj\Debug\netcoreapp3.1\TupleBigO.csprojAssemblyReference.cache
+C:\DATA\TupleBigO\obj\Debug\netcoreapp3.1\TupleBigO.AssemblyInfoInputs.cache
+C:\DATA\TupleBigO\obj\Debug\netcoreapp3.1\TupleBigO.AssemblyInfo.cs
+C:\DATA\TupleBigO\obj\Debug\netcoreapp3.1\TupleBigO.csproj.CoreCompileInputs.cache
+C:\DATA\TupleBigO\obj\Debug\netcoreapp3.1\TupleBigO.dll
+C:\DATA\TupleBigO\obj\Debug\netcoreapp3.1\TupleBigO.pdb
+C:\DATA\TupleBigO\obj\Debug\netcoreapp3.1\TupleBigO.genruntimeconfig.cache
